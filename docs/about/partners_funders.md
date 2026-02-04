@@ -2,6 +2,8 @@
 
 The Lo-Rig project is hosted by Trinity College Dublin (TCD), funded by the European Research Council (ERC), and has a counterpart organisation in Bhutan, the Centre for Bhutan and GNH Studies (CBS).
 
+---
+
 ## Host Institution
 
 ![Trinity College Dublin logo](../assets/logos/logo-tcd.jpg){ align=left, width="250" }
@@ -15,6 +17,10 @@ The School’s vision is to be an internationally recognised reference point for
 
 Research and teaching within the School include the following areas: Linguistics; Applied Linguistics; Computational Linguistics; Speech Science and Phonetics; Speech and Language Pathology; Dysphagia; Deaf Studies; Irish Sign Language; English Language Teaching; Irish Language Technology; and Asian Studies.
 
+Website: [SLSCS, TCD](https://www.tcd.ie/slscs/)
+
+---
+
 ## Funding
 
 ![European Union / ERC logo](../assets/logos/logo-eu_erc.png){ align=left, width="250" }
@@ -23,11 +29,18 @@ Research and teaching within the School include the following areas: Linguistics
 
 This project is funded by the European Union under the Horizon Europe research and innovation programme through a European Research Council starting grant.
 
+Project information is publicly available via the European Commission’s CORDIS portal:
+
+- [Lo-Rig project page (CORDIS)](https://cordis.europa.eu/project/id/101162166)  
+- [Horizon Europe programme](https://cordis.europa.eu/programme/id/HORIZON)
+
+---
+
 ## Partner Institution
 
-![Centre for Bhutan and GNH Studies logo](../assets/logos/logo-cbs_placeholder.png){ align=left, width="150" }
+![Centre for Bhutan and GNH Studies logo](../assets/logos/logo-cbs.png){ align=left, width="250" }
 
-### The Centre for Bhutan and GNH Studies (CBS)
+### Centre for Bhutan and GNH Studies (CBS)
 
 The Centre for Bhutan and GNH Studies (CBS) is an autonomous government research institute for social science and public policy in Bhutan. It conducts interdisciplinary studies on Bhutan’s economy, polity, history, religion, society, culture, and related themes.
 
@@ -35,4 +48,5 @@ Since the mid-2000s, one of the Centre’s major areas of focus has been deepeni
 
 The Centre also promotes scholarship on Bhutan through publications and dissemination activities, including the organisation of national and international conferences, seminars, and eminent lecture series.
 
-Website: https://bhutanstudies.org.bt/
+Website: [Centre for Bhutan and GNH Studies](https://bhutanstudies.org.bt/)
+
