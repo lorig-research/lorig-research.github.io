@@ -16,6 +16,14 @@ theme:
     - search.highlight
   palette:
     - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
   # logo: assets/logos/lo-rig-logo.png   # optional
   # favicon: assets/logos/favicon.png    # optional
 
@@ -23,14 +31,17 @@ plugins:
   - search
   # Optional but recommended for “proof of work” updates:
   - blog:
+      archive: true
+      authors: 
+      authors_file: "{blog}/.authors.yml"
       blog_dir: updates
       blog_toc: true
-      post_date_format: long
-      post_url_date_format: yyyy/MM/dd
-      archive: true
       categories: true
       categories_name: Categories
-      tags: true
+      post_date_format: long
+      post_url_date_format: yyyy/MM/dd
+  - tags:
+      enabled: true
 
 markdown_extensions:
   - admonition
@@ -62,7 +73,7 @@ nav:
       - Publications: outputs/publications.md
       - Talks & Posters: outputs/talks_posters.md
   - Project Updates:
-      - Updates: updates/index.md
+      - Blog: updates/index.md
   - Resources:
       - Data & Materials: resources/data_materials.md
       - Downloads: resources/downloads.md
