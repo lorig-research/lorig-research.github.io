@@ -1,0 +1,25 @@
+authors:
+  tim_bodt:
+    name: Tim Bodt
+    description: Principal Investigator
+    avatar: assets/images/authors/bodt_tim.png
+    slug: tim_bodt
+    url: https://www.tcd.ie/Asian/people/bodtt/
+  michael_bayona:
+    name: Michael Bayona
+    description: Researcher
+    avatar: assets/images/authors/bayona_michael.jpg
+    slug: michael_bayona
+    url: https://github.com/mgarbayona
+  sonam_lhamo:
+    name: Sonam Lhamo
+    description: Researcher
+    avatar: assets/images/authors/lhamo_sonam.jpg
+    slug: sonam_lhamo
+    # url: 
+  rinchen_wangdi:
+    name: Rinchen Wangdi
+    description: Researcher
+    avatar: assets/images/authors/wangdi_rinchen.jpg
+    slug: rinchen_wangdi
+    # url: 
