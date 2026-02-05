@@ -9,7 +9,7 @@ tags:
   - FLEx
   - ASR
 authors:
-  - tim_bodt
+  - timotheus_bodt
   - sonam_lhamo
   - rinchen_wangdi
 ---

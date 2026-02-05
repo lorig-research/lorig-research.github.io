@@ -9,7 +9,7 @@ tags:
   - Field Visit
   - Recordings
 authors:
-  - tim_bodt
+  - timotheus_bodt
   - sonam_lhamo
 ---
 

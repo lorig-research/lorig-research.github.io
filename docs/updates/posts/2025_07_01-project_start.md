@@ -6,7 +6,7 @@ tags:
   - Administration
   - ERC
 authors:
-  - tim_bodt
+  - timotheus_bodt
 ---
 
 # Formal Commencement and Set-up of the Project (July–September 2025)
