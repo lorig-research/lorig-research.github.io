@@ -1,25 +1,42 @@
 authors:
-  tim_bodt:
-    name: Tim Bodt
+  timotheus_bodt:
+    name: Timotheus Bodt
     description: Principal Investigator
-    avatar: assets/images/authors/bodt_tim.png
-    slug: tim_bodt
+    avatar: assets/images/authors/timotheus_bodt.png
+    slug: timotheus_bodt
     url: https://www.tcd.ie/Asian/people/bodtt/
+
+  dasho_karma_ura:
+    name: Dasho Karma Ura
+    description: Senior Researcher
+    avatar: assets/images/authors/dasho_karma_ura.jpg
+    slug: dasho_karma_ura
+    url: https://bhutanstudies.org.bt/pages/about-us/team-members/
+
   michael_bayona:
     name: Michael Bayona
     description: Researcher
-    avatar: assets/images/authors/bayona_michael.jpg
+    avatar: assets/images/authors/michael_bayona.jpg
     slug: michael_bayona
     url: https://github.com/mgarbayona
-  sonam_lhamo:
-    name: Sonam Lhamo
-    description: Researcher
-    avatar: assets/images/authors/lhamo_sonam.jpg
-    slug: sonam_lhamo
-    # url: 
+
   rinchen_wangdi:
     name: Rinchen Wangdi
     description: Researcher
-    avatar: assets/images/authors/wangdi_rinchen.jpg
+    avatar: assets/images/authors/rinchen_wangdi.jpg
     slug: rinchen_wangdi
     # url: 
+  
+  sonam_lhamo:
+    name: Sonam Lhamo
+    description: Researcher
+    avatar: assets/images/authors/sonam_lhamo.jpg
+    slug: sonam_lhamo
+    # url: 
+
+  tshering_om_tamang:
+    name: Tshering Om Tamang
+    description: Researcher
+    avatar: assets/images/authors/tshering_om_tamang.jpg
+    slug: tshering_om_tamang
+    # url:
