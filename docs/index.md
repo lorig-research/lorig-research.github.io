@@ -1,4 +1,17 @@
-# Lo-Rig
+---
+title: Lo-Rig
+hide:
+  - navigation
+  - toc
+---
+
+<div class="hero">
+  <img src="./assets/images/hero_bhutan.png" alt="Lo-Rig banner">
+</div>
+
+<div style="height: 2rem;"></div>
+
+# ![Lo-Rig logo](assets/logos/logo-lo-rig.png){ width="100" }  Lo-Rig
 
 **Lo-Rig** is a five-year research project documenting and analysing biactantial verbal agreement in the endangered Gongduk and Mönpa languages of Bhutan.
 
@@ -10,7 +23,7 @@ The project focuses on the collection and analysis of natural and elicited speec
 
 ## Project at a glance
 
-- **Focus:** Gongduk and Mönpa (Monpa) languages of Bhutan  
+- **Focus:** Gongduk and Mönpa languages of Bhutan  
 - **Host institution:** Trinity College Dublin  
 - **Funding:** European Research Council (Horizon Europe)  
 - **Duration:** 2025–2030  
