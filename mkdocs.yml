@@ -16,15 +16,17 @@ theme:
     - search.highlight
   palette:
     - scheme: default
+      primary: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
+      primary: custom
       toggle:
         icon: material/weather-night
         name: Switch to light mode
 
-  # logo: assets/logos/lo-rig-logo.png   # optional
+  logo: assets/logos/logo-lo-rig_white.png   # optional
   # favicon: assets/logos/favicon.png    # optional
 
 plugins:
@@ -78,3 +80,6 @@ nav:
       - Data & Materials: resources/data_materials.md
       - Downloads: resources/downloads.md
       - Contact: resources/contact.md
+
+extra_css:
+  - stylesheets/extra.css
