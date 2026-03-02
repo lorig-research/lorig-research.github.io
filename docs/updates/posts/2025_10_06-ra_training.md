@@ -12,9 +12,11 @@ authors:
   - timotheus_bodt
   - sonam_lhamo
   - rinchen_wangdi
+slug: 202510-ra-training
 ---
 
-# Research Assistant Training (October–November 2025)
+# Research Assistant Training 
+October-November 2025
 
 Between 06 and 24 October and between 17 and 28 November 2025, the project PI Tim conducted a training programme for the two Bhutanese Research Assistants, Sonam and Rinchen. The training commenced with an introduction to the Lo-Rig project goals and objectives, the project staff, and the work packages and planning for the five years of the project.
 
