@@ -44,9 +44,6 @@ plugins:
       post_url_date_format: yyyy/MM/dd
   - tags:
       enabled: true
-  - sitemap:
-      changefreq: weekly
-      priority: 0.5
       
 markdown_extensions:
   - admonition
