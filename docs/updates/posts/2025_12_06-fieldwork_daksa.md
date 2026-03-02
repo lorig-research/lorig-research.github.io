@@ -9,8 +9,10 @@ tags:
   - Festival
 authors:
   - rinchen_wangdi
+slug: 202510-fieldwork-daksa
 ---
 
-# Fieldwork Visit to Daksa Village (December 2025)
+# Fieldwork Visit to Daksa Village 
+December 2025
 
 Between 06 and 12 December 2025, the Gongduk Research Assistant Rinchen visited Daksa village under Gongdue block, Mongar district, where he attended and documented the Kharphu festival.
