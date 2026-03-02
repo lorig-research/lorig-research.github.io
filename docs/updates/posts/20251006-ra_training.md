@@ -12,7 +12,7 @@ authors:
   - timotheus_bodt
   - sonam_lhamo
   - rinchen_wangdi
-slug: 202510-ra-training
+slug: 20251006-ra_training
 ---
 
 # Research Assistant Training 

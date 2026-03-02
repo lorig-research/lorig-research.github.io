@@ -7,7 +7,7 @@ tags:
   - ERC
 authors:
   - timotheus_bodt
-slug: 202507-formal-commencement
+slug: 20250701-project_start
 ---
 
 # Formal Commencement and Set Up of the Project 

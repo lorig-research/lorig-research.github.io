@@ -9,7 +9,7 @@ tags:
   - Festival
 authors:
   - rinchen_wangdi
-slug: 202510-fieldwork-daksa
+slug: 20251206-fieldwork_daksa
 ---
 
 # Fieldwork Visit to Daksa Village 
