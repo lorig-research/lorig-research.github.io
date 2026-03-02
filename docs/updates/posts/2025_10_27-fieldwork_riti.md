@@ -11,6 +11,7 @@ tags:
 authors:
   - timotheus_bodt
   - sonam_lhamo
+slug: 202510-fieldwork-riti
 ---
 
 # Fieldwork Visit to Riti Village (October 2025)
