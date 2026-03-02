@@ -83,3 +83,8 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  meta:
+    - name: google-site-verification
+      content: <meta name="google-site-verification" content="BaA1AD8w31D5jkMXt-DJvIXGrsuTDyRA_VS0uiG_4dk" />
