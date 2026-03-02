@@ -1,7 +1,42 @@
-# Lo-Rig Website
+# Lo-Rig Project
 
-This repository contains the source for the Lo-Rig project website, built using MkDocs and Material for MkDocs and hosted via GitHub Pages.
+🔗 **Official website:**  
+https://lorig-research.github.io
 
-The site documents project activities, research, and community engagement for the ERC-funded Lo-Rig project based at Trinity College Dublin.
+---
 
-This is an evolving site and currently serves as a minimal public record of project activities.
+This repository contains the source code for the official website of the **Lo-Rig project**, an ERC-funded research project based at Trinity College Dublin.
+
+The website documents:
+
+- Fieldwork and community engagement in Bhutan  
+- Research on the endangered Mönpa and Gongduk languages  
+- Speech technology development for low-resource languages  
+- Academic collaborations and publications  
+
+---
+
+## About the Lo-Rig Project
+
+Lo-Rig (Language Documentation and Speech Technology for Endangered Languages of Bhutan) is dedicated to:
+
+- Describing and documenting the Mönpa and Gongduk languages  
+- Supporting community-led language preservation  
+- Developing computational tools for under-resourced languages  
+
+The project is hosted at:
+
+**Centre for Language & Communication Studies (CLCS)**  
+Trinity College Dublin
+
+---
+
+## Visit the Website
+
+For project updates, research outputs, and community activities, please visit:
+
+👉 https://lorig-research.github.io
+
+---
+
+This repository only contains the source files used to build the website via MkDocs and Material for MkDocs.
