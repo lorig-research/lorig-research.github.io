@@ -7,9 +7,11 @@ tags:
   - ERC
 authors:
   - timotheus_bodt
+slug: 202507-formal-commencement
 ---
 
-# Formal Commencement and Set-up of the Project (July–September 2025)
+# Formal Commencement and Set Up of the Project 
+July-September 2025
 
 The Lo-Rig project officially commenced on 01 July 2025.
 
