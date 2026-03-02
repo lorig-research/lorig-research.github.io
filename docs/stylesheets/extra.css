@@ -23,3 +23,11 @@
   --md-primary-fg-color--dark: #3169e0;
   --md-primary-fg-color--light: #3169e0;
 }
+
+figure figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-style: italic;
+}
