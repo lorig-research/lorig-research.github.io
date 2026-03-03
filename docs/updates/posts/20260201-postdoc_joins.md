@@ -11,6 +11,7 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20260201-postdoc_joins
+image: assets/images/updates/20260201-postdoc_joins/20260201-postdoc_michael.jpeg
 ---
 
 # Michael Bayona Joins the Lo-Rig Project
@@ -20,5 +21,12 @@ slug: 20260201-postdoc_joins
 On 1 February 2026, Michael Bayona joined the Lo-Rig project as a postdoctoral research fellow.
 
 Michael specialises in speech processing and artificial intelligence. Within the project, he will apply and further develop computational methods for the analysis of Gongduk and Monpa, with a particular focus on accelerating the transcription and processing of recorded materials. His work will also contribute to the development of digital tools and applications that speakers can use to support and promote their respective languages.
+
+<figure markdown>
+![Michael Bayona, Postdoctoral Research Fellow on the Lo-Rig project.](/assets/images/updates/20260201-postdoc_joins/20260201-postdoc_michael.jpeg){ width="85%" }
+<figcaption>
+Michael Bayona, Postdoctoral Research Fellow on the Lo-Rig project..
+</figcaption>
+</figure>
 
 The Lo-Rig project team warmly welcomes Michael and looks forward to a productive collaboration over the coming three years.
