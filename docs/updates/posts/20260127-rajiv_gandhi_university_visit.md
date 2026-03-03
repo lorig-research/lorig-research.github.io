@@ -61,7 +61,7 @@ Sharing lunch with students and scholars of RGU AITS (January 2026).
 </figcaption>
 </figure>
 
-The event received coverage in local media, including a report in [The Arunachal Observer](https://arunachaltimes.in/index.php/2026/01/28/aits-special-in-house-lectures-on-linguistics-and-ethnographic-research/).
+The event received coverage in local media, including a report in [The Arunachal Times](https://arunachaltimes.in/index.php/2026/01/28/aits-special-in-house-lectures-on-linguistics-and-ethnographic-research/).
 
 <figure markdown>
 ![Local media coverage of the event at AITS.](/assets/images/updates/20260127-rajiv_gandhi_university_visit/20260127-ArOb_page_01.png){ width="75%" }
