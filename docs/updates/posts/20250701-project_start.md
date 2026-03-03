@@ -1,7 +1,7 @@
 ---
 date: 2025-07-01
 categories:
-  - Project Setup
+  - Project Development
 tags:
   - Administration
   - ERC

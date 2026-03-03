@@ -2,7 +2,7 @@
 title: Michael Bayona Joins the Lo-Rig Project
 date: 2026-02-01
 categories:
-  - Project Team
+  - Project Development
 tags:
   - Speech Technology
   - Artificial Intelligence
