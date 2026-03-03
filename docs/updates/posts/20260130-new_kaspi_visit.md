@@ -24,4 +24,4 @@ The visit formed part of the preparations for the Summer School on Ancient Trans
 
 <figure markdown> ![Sani Bachung enlightening Tim about the intricacies of the Bugun language.](/assets/images/updates/20260130-new_kaspi_visit/20260130-new_kaspi_visit.jpeg){ width="85%" } <figcaption> Sani Bachung enlightening Tim about the intricacies of the Bugun language (January 2026). </figcaption> </figure>
 
-Further information on the Summer School can be found on the Trinity Centre for Asian Studies website.
+Further information on the [Summer School on Ancient Trans-Himalayan Languages](https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/) can be found on the Trinity Centre for Asian Studies website.
