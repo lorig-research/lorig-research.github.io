@@ -16,7 +16,7 @@ image: assets/images/updates/20260127-rajiv_gandhi_university_visit/20260127-RGU
 
 24–27 January 2026
 
-Between 24 and 27 January 2026, Tim was graciously hosted by Dr. Lisa Lomdak, Assistant Professor at the Arunachal Institute for Tribal Studies (AITS) at Rajiv Gandhi University (RGU), Rono Hills, Doimukh, Arunachal Pradesh.
+Between 24 and 27 January 2026, Tim was graciously hosted by Dr. Lisa Lomdak, Assistant Professor at the [Arunachal Institute for Tribal Studies (AITS)](https://rgu.ac.in/arunachal-institute-of-tribal-studies/) at [Rajiv Gandhi University (RGU)](https://newsite.rgu.ac.in/), Rono Hills, Doimukh, Arunachal Pradesh.
 
 Despite 26 January being India’s Republic Day, the Vice Chancellor-in-charge, Prof. S.K. Nayak, took time to attend a short presentation delivered by Tim on possibilities for future research cooperation between AITS and the Trinity Centre for Asian Studies. Recognising the potential mutual benefits of such collaboration, the Vice Chancellor expressed his support for developing institutional cooperation.
 
