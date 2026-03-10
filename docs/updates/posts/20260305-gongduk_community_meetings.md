@@ -8,8 +8,8 @@ tags:
   - Gongduk
   - Fieldwork
 authors:
-  - michael
-slug: community-meetings-pam-miden
+  - rinchen_wangdi
+slug: 20260305-gongduk_community_meetings
 image: assets/images/updates/20260305-gongduk_community_meetings/20260305-miden_meeting.jpeg
 ---
 
