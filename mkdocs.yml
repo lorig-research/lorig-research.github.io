@@ -1,5 +1,5 @@
 site_name: Lo-Rig
-site_description: Describing and promoting the endangered Mönpa and Gongduk languages of Bhutan.
+site_description: Describing and promoting the endangered Monkha and Gongduk languages of Bhutan.
 site_url: https://lorig-research.github.io/
 repo_url: https://github.com/lorig-research/lorig-research.github.io/
 repo_name: lorig-research.github.io
@@ -67,7 +67,7 @@ nav:
       - Outputs: research/outputs.md
   - Community:
       - Overview: community/overview.md
-      - Mönpa community: community/monpa_community.md
+      - Monpa community: community/monpa_community.md
       - Gongduk community: community/gongduk_community.md
       - Engagement: community/engagement.md
   - Outputs:

@@ -18,14 +18,14 @@ October 2025
 
 Between 27 October and 01 November 2025, the project PI Tim and the Monkha Research Assistant Sonam visited the village of Riti under Jigmechoeling block, Sarpang district. Riti is located 88 kilometres from Gelephu city. The road is only partially paved, and the journey can take between six and ten hours depending on road conditions, with roadblocks frequently occurring, in particular at a location known as Boxcut on the Gelephu–Zhemgang highway.
 
-Riti village was established approximately 80 years ago by Mönpa people who migrated from Rukha village in Wangdue Phodrang district. The Monkha varieties spoken in Rukha and Riti are very similar. The inhabitants of Riti depend almost entirely on large cardamom as a cash crop.
+Riti village was established approximately 80 years ago by Monpa people who migrated from Rukha village in Wangdue Phodrang district. The Monkha varieties spoken in Rukha and Riti are very similar. The inhabitants of Riti depend almost entirely on large cardamom as a cash crop.
 
-In Riti, Sonam and Tim conducted an awareness session with a representative from each of the 15 Mönpa households. During this session, they explained the purpose of the Lo-Rig project and its goals and objectives. Community members were asked for their understanding of and permission for the research and were given the opportunity to ask questions or raise concerns.
+In Riti, Sonam and Tim conducted an awareness session with a representative from each of the 15 Monpa households. During this session, they explained the purpose of the Lo-Rig project and its goals and objectives. Community members were asked for their understanding of and permission for the research and were given the opportunity to ask questions or raise concerns.
 
 <figure markdown>
-![Explaining the goals of the Lo-Rig project and its procedures to representatives from all the Mönpa households in Riti village.](/assets/images/updates/20251027-fieldwork_riti/202510-riti_village_meeting.jpg){ width="90%" }
+![Explaining the goals of the Lo-Rig project and its procedures to representatives from all the Monpa households in Riti village.](/assets/images/updates/20251027-fieldwork_riti/202510-riti_village_meeting.jpg){ width="90%" }
 <figcaption>
-Explaining the goals of the Lo-Rig project and its procedures to representatives from all the Mönpa households in Riti village (October 2025).
+Explaining the goals of the Lo-Rig project and its procedures to representatives from all the Monpa households in Riti village (October 2025).
 </figcaption>
 </figure>
 

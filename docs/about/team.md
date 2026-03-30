@@ -59,9 +59,9 @@ As a native speaker of Gongduk, I am motivated to work hard and give my best for
 *Researcher*  
 Bhutan
 
-I am Sonam Lhamo, and I am 28 years old. I was born and grew up in Phuzur village under Langthil block in Trongsa district. My late parents were from Phuzur too, and I grew up speaking the Monkha language. In addition, I know Khengkha, Dzongkha, and a little Lhotshamkha and Tshangla. I completed my primary education from Jangbi school, my lower secondary school from Langthil Lower Secondary School, my middle education from Bayling Central School in Trashiyangtse district, and my higher education from Sherubling Central School in Trongsa. I am married with two daughters, and we live in Jigmechoeling block in Sarpang district, close to the Mönpa communities of Chungshing and Riti.
+I am Sonam Lhamo, and I am 28 years old. I was born and grew up in Phuzur village under Langthil block in Trongsa district. My late parents were from Phuzur too, and I grew up speaking the Monkha language. In addition, I know Khengkha, Dzongkha, and a little Lhotshamkha and Tshangla. I completed my primary education from Jangbi school, my lower secondary school from Langthil Lower Secondary School, my middle education from Bayling Central School in Trashiyangtse district, and my higher education from Sherubling Central School in Trongsa. I am married with two daughters, and we live in Jigmechoeling block in Sarpang district, close to the Monpa communities of Chungshing and Riti.
 
-My primary motivation to join the Lo-Rig project as a Research Assistant is to gain hands-on experience in research. Secondly, I want to work closely with the Mönpa communities, especially with the elders, to bring some positive changes to the community. And finally, the interest from outsiders in the traditions, language and culture of my community motivated me to join this project.
+My primary motivation to join the Lo-Rig project as a Research Assistant is to gain hands-on experience in research. Secondly, I want to work closely with the Monpa communities, especially with the elders, to bring some positive changes to the community. And finally, the interest from outsiders in the traditions, language and culture of my community motivated me to join this project.
 
 ---
 
