@@ -10,7 +10,7 @@ This repository contains the source code for the official website of the **Lo-Ri
 The website documents:
 
 - Fieldwork and community engagement in Bhutan  
-- Research on the endangered Mönpa and Gongduk languages  
+- Research on the endangered Monkha and Gongduk languages  
 - Speech technology development for low-resource languages  
 - Academic collaborations and publications  
 
@@ -18,9 +18,9 @@ The website documents:
 
 ## About the Lo-Rig Project
 
-Lo-Rig (Language Documentation and Speech Technology for Endangered Languages of Bhutan) is dedicated to:
+Lo-Rig (Language Documentation and Speech Technology for Endangered Languages in Bhutan) is dedicated to:
 
-- Describing and documenting the Mönpa and Gongduk languages  
+- Describing and documenting the Monkha and Gongduk languages  
 - Supporting community-led language preservation  
 - Developing computational tools for under-resourced languages  
 
