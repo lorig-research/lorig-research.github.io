@@ -25,7 +25,7 @@ Michael specialises in speech processing and artificial intelligence. Within the
 <figure markdown>
 ![Michael Bayona, Postdoctoral Research Fellow on the Lo-Rig project.](/assets/images/updates/20260201-postdoc_joins/20260201-postdoc_michael.jpeg){ width="85%" }
 <figcaption>
-Michael Bayona, Postdoctoral Research Fellow on the Lo-Rig project..
+Michael Bayona, Postdoctoral Research Fellow on the Lo-Rig project.
 </figcaption>
 </figure>
 
