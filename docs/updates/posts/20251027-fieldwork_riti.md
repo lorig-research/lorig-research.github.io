@@ -4,7 +4,6 @@ categories:
   - Fieldwork
 tags:
   - Riti
-  - Monpa
   - Monkha
   - Field Visit
   - Recordings

@@ -36,7 +36,7 @@ The Vice Chancellor-in-charge presenting a token of appreciation to Tim in the p
 
 On 27 January, Tim delivered two talks to graduate and postgraduate students and staff of RGU. He summarised the ethnolinguistic situation in Western Arunachal Pradesh, outlined the present state of research, and identified gaps in current knowledge as opportunities for future research, ideally to be undertaken by scholars and students from Arunachal Pradesh. 
 
-He also introduced Trinity College Dublin, the School of Linguistic, Speech and Communication Sciences, and the Trinity Centre for Asian Studies. Copies of his publications, *Reconstruction of Proto-Western Kho-Bwa* and *Ethnography of the Costumes of the Brokpa and Monpa People*, were presented to the Institute’s library.
+He also introduced Trinity College Dublin, the School of Linguistic, Speech and Communication Sciences, and the Trinity Centre for Asian Studies. Copies of his publications, *Reconstruction of Proto-Western Kho-Bwa* and *Ethnography of the Costumes of the Brokpa and Mönpa People*, were presented to the Institute’s library.
 
 <figure markdown>
 ![Tim delivering his talk on the ethnolinguistic diversity of Western Arunachal Pradesh.](/assets/images/updates/20260127-rajiv_gandhi_university_visit/20260127-RGU_AITS_talk.jpeg){ width="85%" }
