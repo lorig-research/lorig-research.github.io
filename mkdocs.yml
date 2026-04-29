@@ -26,8 +26,8 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-  logo: assets/logos/logo-lo-rig_white.png   # optional
-  # favicon: assets/logos/favicon.png    # optional
+  logo: assets/logos/logo-lo-rig_white.png
+  favicon: assets/logos/favicon-32x32.png
 
 plugins:
   - search
