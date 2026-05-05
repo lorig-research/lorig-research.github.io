@@ -40,3 +40,17 @@ For project updates, research outputs, and community activities, please visit:
 ---
 
 This repository only contains the source files used to build the website via MkDocs and Material for MkDocs.
+
+---
+
+## Repository Overview
+
+This repository holds the MkDocs source for the Lo‑Rig website. Key locations:
+
+- `mkdocs.yml`: site config
+- `docs/`: site pages and content (see `docs/updates/posts` for update posts)
+- `docs/assets/images/`: images used on the site
+- `stylesheets/extra.css`: additional CSS
+- `overrides/`: theme template overrides
+
+For contributor guidance (how to format update posts, commit/PR workflow, image placement), see `CONTRIBUTING.md`.
