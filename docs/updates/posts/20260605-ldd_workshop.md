@@ -22,6 +22,14 @@ image: assets/images/updates/20260605-ldd_workshop/ldd_workshop_banner.png
 
 **05 June 2026**
 
+!!! info "Workshop details"
+    **Title:** Language Documentation and Description Workshop 1: Linguistic Fieldwork  
+    **Dates:** 30 November – 06 December 2026  
+    **Location:** Centre for Bhutan and GNH Studies, Langjopakha, Thimphu, Bhutan  
+    **Application deadline:** 15 August 2026  
+
+    [Download the full announcement PDF](/assets/files/updates/20260605-ldd_workshop/Lo-Rig_LDD-Workshop-01_Announcement.pdf)
+
 The Lo-Rig project, in cooperation with the Centre for Bhutan and GNH Studies (CBS), is pleased to announce its first annual Language Documentation and Description Workshop. The first workshop, titled **"Linguistic Fieldwork"**, will take place at CBS in Langjopakha, Thimphu, Bhutan, from **30 November to 06 December 2026**.
 
 This workshop is the first in a planned series of three annual workshops organised by the Lo-Rig project. The series aims to support language documentation and description work by bringing together community linguists, researchers, teachers, cultural officers, language advocates, and others interested in linguistic research and language preservation.
