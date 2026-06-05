@@ -1,5 +1,5 @@
 ---
-title: First Language Documentation and Description Workshop
+title: Applications Open for the First Lo-Rig Language Documentation and Description Workshop
 date: 2026-06-05
 categories:
   - Training
@@ -18,9 +18,16 @@ slug: 20260605-ldd_workshop
 image: assets/images/updates/20260605-ldd_workshop/ldd_workshop_banner.png
 ---
 
-# First Language Documentation and Description Workshop
+# Applications Open for the First Lo-Rig Language Documentation and Description Workshop
 
 **05 June 2026**
+
+<figure markdown>
+![Banner for the first Lo-Rig Language Documentation and Description Workshop](/assets/images/updates/20260605-ldd_workshop/ldd_workshop_banner.png){ width="85%" }
+<figcaption>
+Official banner for the first Lo-Rig Language Documentation and Description Workshop, "Linguistic Fieldwork", to be held in Thimphu from 30 November to 06 December 2026.
+</figcaption>
+</figure>
 
 !!! info "Workshop details"
     **Title:** Language Documentation and Description Workshop 1: Linguistic Fieldwork  
