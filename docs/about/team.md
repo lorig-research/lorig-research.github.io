@@ -11,7 +11,7 @@ Trinity College Dublin
 
 As Principal Investigator, I have almost three decades of close association with Bhutan and the Bhutanese people. I intermittently stayed in the country for around seven years and am proficient in several of Bhutan's languages. Realising its value and potential, the Royal Government of Bhutan has officially sanctioned the Lo-Rig project.
 
-**Links:** [Email](mailto:Tim.Bodt@tcd.ie) | [TCD TCAS Page](https://www.tcd.ie/Asian/people/bodtt/)| [ORCID](https://orcid.org/0000-0002-2024-0488) 
+**Links:** [Email](mailto:Tim.Bodt@tcd.ie) | [TCD TCAS Page](https://www.tcd.ie/Asian/people/bodtt/) | [ORCID](https://orcid.org/0000-0002-2024-0488) 
 
 ---
 
