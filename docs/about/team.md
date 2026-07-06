@@ -11,7 +11,7 @@ Trinity College Dublin
 
 As Principal Investigator, I have almost three decades of close association with Bhutan and the Bhutanese people. I intermittently stayed in the country for around seven years and am proficient in several of Bhutan's languages. Realising its value and potential, the Royal Government of Bhutan has officially sanctioned the Lo-Rig project.
 
-**Links:** [Email](mailto:Tim.Bodt@tcd.ie) | [TCD TCAS Page](https://www.tcd.ie/Asian/people/bodtt/) | [ORCID](https://orcid.org/0000-0002-2024-0488) 
+**Links:** [Email](mailto:Tim.Bodt@tcd.ie)&nbsp;&middot;&nbsp;[TCD TCAS Page](https://www.tcd.ie/Asian/people/bodtt/)&nbsp;&middot;&nbsp;[ORCID](https://orcid.org/0000-0002-2024-0488) 
 
 ---
 
@@ -39,7 +39,7 @@ My background is in speech and language processing, with experience spanning low
 
 Within the Lo-Rig project, I contribute to the organisation, processing, and presentation of linguistic data, as well as to the development of tools and workflows that support research, analysis, and dissemination.
 
-**Links:** [Email](mailto:BayonaMG@tcd.ie) | [TCD Page](https://people.tcd.ie/Profile?Username=bayonamg) | [ORCID](https://orcid.org/0000-0002-9306-6740) | [GitHub](https://github.com/mgarbayona)
+**Links:** [Email](mailto:BayonaMG@tcd.ie)&nbsp;&middot;&nbsp;[TCD Page](https://people.tcd.ie/Profile?Username=bayonamg)&nbsp;&middot;&nbsp;[ORCID](https://orcid.org/0000-0002-9306-6740)&nbsp;&middot;&nbsp;[GitHub](https://github.com/mgarbayona)
 
 ---
 
@@ -77,4 +77,4 @@ Tshering Om Tamang joined the Department of Language Education in 2021 and is cu
 
 Her master's research focused on the assessment of bilingualism among learners of English as a Second Language, while her honours dissertation examined the Bhutanese English curriculum, with particular attention to the role of Bhutanese literature written in English.
 
-**Links:** [Email](mailto:TamangT@tcd.ie) | [ORCID](https://orcid.org/0009-0000-2703-4911) 
+**Links:** [Email](mailto:TamangT@tcd.ie)&nbsp;&middot;&nbsp;[ORCID](https://orcid.org/0009-0000-2703-4911) 
