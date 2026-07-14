@@ -4,6 +4,13 @@ site_url: https://lorig-research.github.io/
 repo_url: https://github.com/lorig-research/lorig-research.github.io/
 repo_name: lorig-research.github.io
 
+copyright: >
+  Funded by the European Union. This work is supported by an ERC grant
+  (Lo-Rig, 101162166). Views and opinions expressed are however those of
+  the author(s) only and do not necessarily reflect those of the European
+  Union or the European Research Council. Neither the European Union nor
+  the granting authority can be held responsible for them.
+
 theme:
   name: material
   features:
@@ -28,6 +35,8 @@ theme:
 
   logo: assets/logos/logo-lo-rig_white.png
   favicon: assets/logos/favicon-32x32.png
+
+  custom_dir: overrides
 
 plugins:
   - search
@@ -83,3 +92,12 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/lorig_research
+      name: Lo-Rig on X
+    - icon: fontawesome/brands/github
+      link: https://github.com/lorig-research/lorig-research.github.io
+      name: Lo-Rig on GitHub
