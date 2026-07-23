@@ -26,8 +26,6 @@ Between 15 and 27 June 2026, Lo-Rig Principal Investigator Tim Bodt taught a cla
 
 The class worked with primary data on Bugun and showed how such linguistic data can be used to reconstruct a proto-language and compare these data with other, presumably related languages. The class included two practical sessions and was attended by around 40 on-site and online participants.
 
-This teaching activity formed part of wider training, outreach, and dissemination work related to the study of Trans-Himalayan languages.
-
 More information about the 2026 Summer School is available on the Trinity Centre for Asian Studies website:
 
 [2026 Summer School for Ancient Trans-Himalayan Languages](https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/)
