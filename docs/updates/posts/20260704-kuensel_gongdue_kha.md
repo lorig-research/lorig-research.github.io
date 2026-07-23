@@ -10,7 +10,7 @@ tags:
   - Bhutan
   - Kuensel
 authors:
-  - michael_bayona
+  - timotheus_bodt
 slug: 20260704-kuensel_gongdue_kha
 ---
 
