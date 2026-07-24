@@ -70,25 +70,20 @@ nav:
       - Overview: about/overview.md
       - Team: about/team.md
       - Partners & Funders: about/partners_funders.md
-  - Research:
-      - Languages: research/languages.md
-      - Methods & Data: research/methods_data.md
-      - Outputs: research/outputs.md
-  - Community:
-      - Overview: community/overview.md
+  - Linguistic Communities:
       - Monpa Community: community/monpa_community.md
       - Gongduk Community: community/gongduk_community.md
-      - Engagement: community/engagement.md
+  - Resources:
+      - Methods: resources/methods.md
+      - Data & Materials: resources/data_materials.md
+      - Downloads: resources/downloads.md
   - Outputs:
       - Awards & Grants: outputs/awards_grants.md
       - Publications: outputs/publications.md
       - Talks & Posters: outputs/talks_posters.md
   - Project Updates:
       - Blog: updates/index.md
-  - Resources:
-      - Data & Materials: resources/data_materials.md
-      - Downloads: resources/downloads.md
-      - Contact: resources/contact.md
+  - Contact: resources/contact.md
 
 extra_css:
   - stylesheets/extra.css
