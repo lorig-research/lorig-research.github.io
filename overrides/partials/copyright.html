@@ -1,22 +1,52 @@
-<div class="lorig-funding-footer">
-  <div class="lorig-funding-footer__logo-box">
+<div class="lorig-site-footer">
+  <div class="lorig-site-footer__funding">
     <img
-      src="/assets/logos/logo-eu_erc.png"
+      src="{{ 'assets/logos/logo-eu_erc.png' | url }}"
       alt="Funded by the European Union and European Research Council"
-      class="lorig-funding-footer__logo"
+      class="lorig-site-footer__funding-logo"
     />
+
+    <div class="lorig-site-footer__funding-text">
+      {{ config.copyright }}
+    </div>
   </div>
 
-  <div class="lorig-funding-footer__text">
-    {{ config.copyright }}
+  <div class="lorig-site-footer__institutions" aria-label="Affiliated institutions">
+    <a href="https://www.tcd.ie/" target="_blank" rel="noopener">
+      <img
+        src="{{ 'assets/logos/logo-tcd.jpg' | url }}"
+        alt="Trinity College Dublin"
+        class="lorig-site-footer__institution-logo"
+      />
+    </a>
+
+    <a href="https://www.bhutanstudies.org.bt/" target="_blank" rel="noopener">
+      <img
+        src="{{ 'assets/logos/logo-cbs.png' | url }}"
+        alt="Centre for Bhutan and GNH Studies"
+        class="lorig-site-footer__institution-logo lorig-site-footer__institution-logo--wide"
+      />
+    </a>
+
+    <a href="https://www.tcd.ie/trinitylongroomhub/" target="_blank" rel="noopener">
+      <img
+        src="{{ 'assets/logos/logo-tlrh.png' | url }}"
+        alt="Trinity Long Room Hub"
+        class="lorig-site-footer__institution-logo"
+      />
+    </a>
+  </div>
+
+  <div class="lorig-site-footer__bottom">
+    <span>© 2026 Lo-Rig Project.</span>
 
     {% if config.extra.generator != false %}
-      <div class="lorig-generator">
+      <span>
         Made with
         <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs
         </a>
-      </div>
+      </span>
     {% endif %}
   </div>
 </div>
