@@ -34,6 +34,6 @@ The project focuses on the collection and analysis of natural and elicited speec
 
 - [About the project](about/overview.md)
 <!-- - [Research focus and methods](research/) -->
-- [Speech communities](community/monpa_community.md)
+<!-- - [Speech communities](community/monpa_community.md) -->
 <!-- - [Project outputs](outputs/) -->
 - [Project updates](updates/index.md)
