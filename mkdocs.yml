@@ -93,6 +93,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/lorig_research
       name: Lo-Rig on X
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/lorig-research.bsky.social
+      name: Lo-Rig Research on Bluesky
     - icon: fontawesome/brands/github
       link: https://github.com/lorig-research/lorig-research.github.io
       name: Lo-Rig on GitHub
