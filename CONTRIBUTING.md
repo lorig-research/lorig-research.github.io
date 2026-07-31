@@ -53,10 +53,10 @@ Use the following template:
 title: Example Title
 date: 2026-05-05
 categories:
-  - Project Development
+  - Fieldwork and Communities
 tags:
   - Monkha
-  - Fieldwork
+  - Field Visit
 authors:
   - your_name
 slug: 20260505-example
@@ -76,6 +76,51 @@ Caption text.
 </figcaption>
 </figure>
 ```
+
+---
+
+## Categories and tags
+
+Use **one category per post**. Categories should stay broad so that the update archive remains easy to browse. Use tags for more specific topics, places, languages, institutions, tools, and activity types.
+
+### Standard categories
+
+Choose one of the following categories:
+
+* **Project News** — project milestones, team updates, administrative updates, institutional home, project setup
+* **Fieldwork and Communities** — field visits, community meetings, community-facing updates, local conditions affecting fieldwork
+* **Training and Capacity Building** — training sessions, workshops, summer schools, teaching activities, capacity-building events
+* **Outreach and Dissemination** — talks, seminars, conference presentations, media coverage, public-facing visibility
+* **Partnerships and Networks** — institutional visits, collaborations, research networks, external academic relationship-building
+
+Do not create new categories unless there is a clear need and the website maintainer agrees.
+
+### Recommended tag usage
+
+Tags should be specific and reusable. They can include:
+
+* Languages and communities, for example: `Gongduk`, `Gongdue Kha`, `Monpa`, `Monkha`
+* Places, for example: `Bhutan`, `Riti`, `Chungseng`, `Phuzur`, `Jangbi`, `Wangling`, `Trongsa`, `Thimphu`
+* Institutions, for example: `Trinity College Dublin`, `Trinity Long Room Hub`, `Centre for Bhutan and GNH Studies`, `IIT Guwahati`, `Tezpur University`, `Rajiv Gandhi University`
+* Activity types, for example: `Field Visit`, `Community Engagement`, `Workshop`, `Summer School`, `Class`, `Talk`, `Research Seminar`, `Conference`, `Conference Presentation`, `Media`, `Collaboration`, `Institutional Collaboration`
+* Research themes and tools, for example: `Language Documentation`, `Linguistic Fieldwork`, `Historical Linguistics`, `Trans-Himalayan Languages`, `Speech Technology`, `ASR`, `Forced Alignment`, `ELAN`, `FLEx`, `Human Language Technology`, `Human-Centred Technology`
+* Project roles or administration, for example: `Team`, `Research Assistants`, `PhD Student`, `Postdoctoral Researcher`, `Administration`, `ERC`
+
+Keep tags consistent with existing posts. For example, use `Field Visit` rather than alternating between `Field Visit` and `Fieldwork` when referring to a specific project visit.
+
+---
+
+## Choosing the right category
+
+Use this quick guide when classifying a post:
+
+| If the post is mainly about... | Use this category | Put these details in tags |
+| --- | --- | --- |
+| A project start, team member, institutional home, or internal milestone | `Project News` | `Team`, `PhD Student`, `Postdoctoral Researcher`, `ERC`, `Trinity College Dublin` |
+| A village visit, field recording trip, community meeting, or fieldwork access issue | `Fieldwork and Communities` | `Field Visit`, `Community Engagement`, village names, language names, `Media`, `Infrastructure` |
+| A workshop, training session, summer school, or teaching activity | `Training and Capacity Building` | `Workshop`, `Summer School`, `Class`, `Research Assistants`, `ASR`, `Linguistic Fieldwork` |
+| A talk, research seminar, conference presentation, or media mention | `Outreach and Dissemination` | `Talk`, `Research Seminar`, `Conference`, `Conference Presentation`, `Media`, topic tags |
+| A university visit, external collaboration, or research network meeting | `Partnerships and Networks` | `Collaboration`, `Institutional Collaboration`, institution names, country or region tags |
 
 ---
 
@@ -110,6 +155,8 @@ Please use the following consistently:
 
 * Keep posts concise (usually 1–3 paragraphs is enough)
 * Use clear, neutral language (avoid informal tone)
+* Use one standard category per post
+* Use tags for specific languages, places, institutions, tools, and activity types
 * Check spelling of names and places carefully
 * Keep formatting consistent with existing posts
 
@@ -119,6 +166,8 @@ Please use the following consistently:
 
 * Ensure `title`, `date`, and `slug` are included
 * Confirm the slug matches the filename
+* Use one of the standard categories listed above
+* Check that tags are spelled consistently with existing posts
 * Check that images load correctly
 * Preview locally if possible
 
