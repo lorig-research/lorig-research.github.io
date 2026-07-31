@@ -2,14 +2,15 @@
 title: Kuensel Reports on Access Challenges Affecting Riti and Jigmecholing
 date: 2026-07-22
 categories:
-  - Community
-  - Media
+  - Fieldwork and Communities
 tags:
+  - Media
   - Monpa
   - Monkha
   - Riti
   - Jigmecholing
   - Fieldwork
+  - Infrastructure
   - Bhutan
   - Kuensel
 authors:

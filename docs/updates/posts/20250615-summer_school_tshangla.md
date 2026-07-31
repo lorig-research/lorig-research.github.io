@@ -2,10 +2,11 @@
 title: Opening Talk at the First Summer School for Ancient Trans-Himalayan Languages
 date: 2025-06-15
 categories:
-  - Training
-  - Dissemination
+  - Training and Capacity Building
 tags:
   - Summer School
+  - Dissemination
+  - Talk
   - Trans-Himalayan Languages
   - Tshangla
   - Tibetan Script
@@ -13,7 +14,6 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20250615-summer_school_tshangla
-
 ---
 
 # Opening Talk at the First Summer School for Ancient Trans-Himalayan Languages

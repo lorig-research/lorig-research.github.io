@@ -2,11 +2,13 @@
 title: Community Meetings in Pam and Miden
 date: 2026-03-05
 categories:
-  - Fieldwork
+  - Fieldwork and Communities
 tags:
-  - Community Engagement
   - Gongduk
-  - Fieldwork
+  - Pam
+  - Miden
+  - Community Engagement
+  - Field Visit
 authors:
   - rinchen_wangdi
 slug: 20260305-gongduk_community_meetings

@@ -1,8 +1,10 @@
 ---
+title: Research Visit to Tezpur University
 date: 2026-01-23
 categories:
-  - Collaboration
+  - Partnerships and Networks
 tags:
+  - Collaboration
   - Language Documentation
   - Northeast India
   - Linguistics
@@ -13,6 +15,8 @@ slug: 20260123-tezpur-university-visit
 ---
 
 # Research Visit to Tezpur University
+
+**21-23 January 2026**
 
 Between the 21st and 23rd of January, Tim visited his alma mater, [Tezpur University](https://www.tezu.ernet.in/) in Assam. Between 2012 and 2017, Tezpur University hosted Tim and his colleague from Bern University, Ismael Lieberherr, so that they could conduct their PhD thesis research. Prof. Dr. Madhumita Barbora (now retired) acted as their second supervisor. This time, the Head of the [Department of Linguistics and Language Technology (DLLT)](https://www.tezu.ernet.in/llt/), Prof. Dr. Arup Kumar Nath, organized a meeting on the 22nd of January, and gave Tim the opportunity to present a talk his talk on the ethnolinguistic situation in Western Arunachal Pradesh, the present state of research, and opportunities for future research. Tim also introduced Trinity College Dublin, the School of Linguistic, Speech and Communication Sciences, the Trinity Center for Asian Studies, and the Lo-Rig project.
 

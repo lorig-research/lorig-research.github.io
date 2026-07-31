@@ -1,12 +1,14 @@
 ---
-title: Field Visit to Chungseng village
+title: Field Visit to Chungseng Village
 date: 2026-03-13
 categories:
-  - Fieldwork
+  - Fieldwork and Communities
 tags:
+  - Monpa
   - Monkha
-  - Fieldwork
+  - Chungseng
   - Bhutan
+  - Field Visit
 authors:
   - sonam_lhamo
   - tshering_om_tamang
@@ -14,7 +16,7 @@ slug: 20260313-fieldwork_monkha_chungseng
 image: assets/images/updates/20260313-fieldwork_monkha_chungseng/20260313-chungseng_data_collection.png
 ---
 
-# Field Visit to Chungseng village
+# Field Visit to Chungseng Village
 
 **13-17 March 2026**
 

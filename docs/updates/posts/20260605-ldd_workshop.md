@@ -2,15 +2,13 @@
 title: Applications Open for the First Lo-Rig Language Documentation and Description Workshop
 date: 2026-06-05
 categories:
-  - Training
-  - Workshop
+  - Training and Capacity Building
 tags:
+  - Workshop
   - Language Documentation
   - Linguistic Fieldwork
-  - Workshop
   - Bhutan
   - Trans-Himalayan Languages
-  - ASR
 authors:
   - timotheus_bodt
   - tshering_om_tamang

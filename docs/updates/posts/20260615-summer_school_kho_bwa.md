@@ -2,10 +2,11 @@
 title: Class on Proto-(Western-)Kho-Bwa Reconstruction at the Second Summer School for Ancient Trans-Himalayan Languages
 date: 2026-06-15
 categories:
-  - Training
-  - Dissemination
+  - Training and Capacity Building
 tags:
   - Summer School
+  - Class
+  - Dissemination
   - Trans-Himalayan Languages
   - Historical Linguistics
   - Linguistic Reconstruction
@@ -15,7 +16,6 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20260615-summer_school_kho_bwa
-
 ---
 
 # Class on Proto-(Western-)Kho-Bwa Reconstruction at the Second Summer School for Ancient Trans-Himalayan Languages

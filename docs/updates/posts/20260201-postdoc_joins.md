@@ -2,8 +2,10 @@
 title: Michael Bayona Joins the Lo-Rig Project
 date: 2026-02-01
 categories:
-  - Project Development
+  - Project News
 tags:
+  - Team
+  - Postdoctoral Researcher
   - Speech Technology
   - Artificial Intelligence
   - Gongduk
@@ -16,7 +18,7 @@ image: assets/images/updates/20260201-postdoc_joins/20260201-postdoc_michael.jpe
 
 # Michael Bayona Joins the Lo-Rig Project
 
-01 February 2026
+**01 February 2026**
 
 On 1 February 2026, Michael Bayona joined the Lo-Rig project as a postdoctoral research fellow.
 

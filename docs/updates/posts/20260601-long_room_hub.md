@@ -2,8 +2,7 @@
 title: Lo-Rig Now Housed in the Trinity Long Room Hub
 date: 2026-06-01
 categories:
-  - Project
-  - Collaboration
+  - Project News
 tags:
   - Trinity Long Room Hub
   - Trinity College Dublin
@@ -11,6 +10,7 @@ tags:
   - Language Documentation
   - Linguistics
   - Human-Centred Technology
+  - Institutional Home
 authors:
   - timotheus_bodt
 slug: 20260601-long_room_hub
@@ -18,7 +18,7 @@ slug: 20260601-long_room_hub
 
 # Lo-Rig Now Housed in the Trinity Long Room Hub
 
-**1 June 2026**
+**01 June 2026**
 
 From 1 June 2026, the Lo-Rig project is housed in the **Trinity Long Room Hub Arts & Humanities Research Institute** at Trinity College Dublin.
 

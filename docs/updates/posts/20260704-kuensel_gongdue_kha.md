@@ -2,10 +2,11 @@
 title: Lo-Rig Project Mentioned in Kuensel Article on Gongdue Kha
 date: 2026-07-04
 categories:
-  - Project Development
-  - Media
+  - Outreach and Dissemination
 tags:
+  - Media
   - Gongduk
+  - Gongdue Kha
   - Language Documentation
   - Bhutan
   - Kuensel
