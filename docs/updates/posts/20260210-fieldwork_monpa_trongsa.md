@@ -1,19 +1,24 @@
 ---
-title: Field visit to Phuzur, Jangbi and Wangling villages
+title: Field Visit to Phuzur, Jangbi and Wangling Villages
 date: 2026-02-10
 categories:
-  - Fieldwork
+  - Fieldwork and Communities
 tags:
+  - Monpa
   - Monkha
-  - Fieldwork
+  - Phuzur
+  - Jangbi
+  - Wangling
+  - Trongsa
   - Bhutan
+  - Field Visit
 authors:
   - sonam_lhamo
 slug: 20260210-fieldwork_monpa_trongsa
 image: assets/images/updates/20260210-fieldwork_monpa_trongsa/20260210-losar_meal.jpeg
 ---
 
-# Field visit to Phuzur, Jangbi and Wangling villages
+# Field Visit to Phuzur, Jangbi and Wangling Villages
 
 **10-25 February 2026**
 

@@ -2,7 +2,7 @@
 title: Visit to New Kaspi Village
 date: 2026-01-30
 categories:
-  - Fieldwork
+  - Fieldwork and Communities
 tags:
   - Bugun
   - Arunachal Pradesh
@@ -16,7 +16,7 @@ image: assets/images/updates/20260130-new_kaspi_visit/20260130-new_kaspi_visit.j
 
 # Visit to New Kaspi Village
 
-30 January 2026
+**30 January 2026**
 
 On 30 January 2026, Tim visited New Kaspi village in Singchung circle, where he met with Mr. Sani Bachung, a speaker of Bugun.
 

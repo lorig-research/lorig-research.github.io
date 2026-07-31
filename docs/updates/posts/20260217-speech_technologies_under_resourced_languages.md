@@ -2,9 +2,10 @@
 title: Research Seminar on Speech Technologies for Under-Resourced Languages
 date: 2026-02-17
 categories:
-  - Dissemination
-  - Talk
+  - Outreach and Dissemination
 tags:
+  - Talk
+  - Research Seminar
   - Speech Technology
   - ASR
   - Forced Alignment

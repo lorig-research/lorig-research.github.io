@@ -1,7 +1,8 @@
 ---
+title: Fieldwork Visit to Riti Village
 date: 2025-10-27
 categories:
-  - Fieldwork
+  - Fieldwork and Communities
 tags:
   - Riti
   - Monkha
@@ -14,7 +15,8 @@ slug: 20251027-fieldwork_riti
 ---
 
 # Fieldwork Visit to Riti Village 
-October 2025
+
+**October-November 2025**
 
 Between 27 October and 01 November 2025, the project PI Tim and the Monkha Research Assistant Sonam visited the village of Riti under Jigmechoeling block, Sarpang district. Riti is located 88 kilometres from Gelephu city. The road is only partially paved, and the journey can take between six and ten hours depending on road conditions, with roadblocks frequently occurring, in particular at a location known as Boxcut on the Gelephu–Zhemgang highway.
 

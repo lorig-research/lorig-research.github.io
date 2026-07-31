@@ -14,7 +14,9 @@ slug: 20260129-cihcs_visit
 image: assets/images/updates/20260129-cihcs_visit/20260129-cihcs_letter.png
 ---
 
-29 January 2026
+# Research Visit to the Central Institute for Himalayan Culture Studies
+
+**29 January 2026**
 
 On 29 January 2026, Tim visited the [Central Institute for Himalayan Culture Studies (CIHCS)](https://cihcs.edu.in/) at Dahung, Singchung circle, West Kameng district, Arunachal Pradesh. He had an extended discussion with the Institute's Director, Dr. Gurmet Dorjey.
 

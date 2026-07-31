@@ -2,9 +2,10 @@
 title: Network Meeting on Automating Language Documentation and Description
 date: 2025-09-17
 categories:
+  - Partnerships and Networks
+tags:
   - Collaboration
   - Dissemination
-tags:
   - Language Documentation
   - Human Language Technology
   - Network Meeting
@@ -13,7 +14,6 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20250917-uppsala_language_documentation_network
-
 ---
 
 # Network Meeting on Automating Language Documentation and Description

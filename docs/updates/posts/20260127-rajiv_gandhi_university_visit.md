@@ -2,8 +2,9 @@
 title: Research Visit to Rajiv Gandhi University
 date: 2026-01-27
 categories:
-  - Collaboration
+  - Partnerships and Networks
 tags:
+  - Collaboration
   - Arunachal Pradesh
   - AITS
   - Institutional Collaboration
@@ -14,7 +15,9 @@ slug: 20260127-rajiv_gandhi_university_visit
 image: assets/images/updates/20260127-rajiv_gandhi_university_visit/20260127-RGU_VC_talk.jpeg
 ---
 
-24–27 January 2026
+# Research Visit to Rajiv Gandhi University
+
+**24–27 January 2026**
 
 Between 24 and 27 January 2026, Tim was graciously hosted by Dr. Lisa Lomdak, Assistant Professor at the [Arunachal Institute for Tribal Studies (AITS)](https://rgu.ac.in/arunachal-institute-of-tribal-studies/) at [Rajiv Gandhi University (RGU)](https://newsite.rgu.ac.in/), Rono Hills, Doimukh, Arunachal Pradesh.
 

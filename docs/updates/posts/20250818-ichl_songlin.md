@@ -2,11 +2,11 @@
 title: Conference Presentation on Qiangic and Macro-Gyalrongic Languages
 date: 2025-08-18
 categories:
-  - Conference
-  - Dissemination
+  - Outreach and Dissemination
 tags:
-  - Historical Linguistics
+  - Conference
   - Conference Presentation
+  - Historical Linguistics
   - Trans-Himalayan Languages
   - Qiangic
   - Macro-Gyalrongic
@@ -15,7 +15,6 @@ authors:
   - timotheus_bodt
 slug: 20250818-ichl_songlin
 image: assets/images/updates/20250818-ichl_songlin/songlin_phylogenetic_tree.png
-
 ---
 
 # Conference Presentation on Qiangic and Macro-Gyalrongic Languages

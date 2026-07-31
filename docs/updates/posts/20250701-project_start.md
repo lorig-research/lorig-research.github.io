@@ -1,7 +1,8 @@
 ---
+title: Formal Commencement and Set Up of the Project 
 date: 2025-07-01
 categories:
-  - Project Development
+  - Project News
 tags:
   - Administration
   - ERC
@@ -11,7 +12,8 @@ slug: 20250701-project_start
 ---
 
 # Formal Commencement and Set Up of the Project 
-July-September 2025
+
+**July-September 2025**
 
 The Lo-Rig project officially commenced on 01 July 2025.
 

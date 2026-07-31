@@ -2,11 +2,11 @@
 title: Presentation at the 58th International Conference on Sino-Tibetan Languages and Linguistics
 date: 2025-09-04
 categories:
-  - Conference
-  - Dissemination
+  - Outreach and Dissemination
 tags:
-  - Historical Linguistics
+  - Conference
   - Conference Presentation
+  - Historical Linguistics
   - Sino-Tibetan Languages
   - Trans-Himalayan Languages
   - Kusunda
@@ -15,7 +15,6 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20250904-icstll58_kusunda_sino_tibetan
-
 ---
 
 # Presentation at the 58th International Conference on Sino-Tibetan Languages and Linguistics
