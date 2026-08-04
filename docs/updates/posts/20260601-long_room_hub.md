@@ -28,7 +28,7 @@ The Trinity Long Room Hub is Trinity's research institute for the Arts and Human
 
 This makes the Hub a supportive institutional setting for Lo-Rig's work on language documentation, linguistic description, community collaboration, and AI-assisted workflows for under-resourced languages.
 
-Following the project's initial setup period with the Trinity Centre for Asian Studies, Lo-Rig is grateful for the support received during that stage and looks forward to continuing its work within Trinity's wider arts and humanities research community.
+Following its initial setup period with the School of Linguistic, Speech and Communication Sciences, Trinity College Dublin, Lo-Rig is grateful for the support received during that stage and looks forward to continuing its work within Trinity's wider arts and humanities research community.
 
 The move gives the project a clear institutional base within Trinity College Dublin as it continues its work on the documentation and description of Gongduk and Monkha, and on the development of AI-assisted workflows to support language documentation.
 
