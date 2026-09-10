@@ -131,6 +131,8 @@ docs/updates/posts/
 
 3. Click **Add file** &rarr; **Create new file**.
 
+![Create a new file in GitHub](docs/assets/images/contributing/github_website_workflow/opt01_github-step02_03-create_new_file.png)
+
 4. Name the file using this format:
 
 ```
@@ -142,6 +144,8 @@ Example:
 ```
 20260906-berlin_summer_school.md
 ```
+
+![Enter post filename](docs/assets/images/contributing/github_website_workflow/opt01_github-step02_04-enter_post_filename.png)
 
 5. Copy and paste the post template into the text box.
 
@@ -155,6 +159,8 @@ For example:
 filename: 20260906-berlin_summer_school.md
 slug: 20260906-berlin_summer_school
 ```
+
+![Paste and edit post template](docs/assets/images/contributing/github_website_workflow/opt01_github-step03-paste_and_edit_post_template.png)
 
 ### 4. Choose one category and relevant tags
 
@@ -213,7 +219,12 @@ Add Berlin summer school update
 
 2. Choose Create a new branch for this commit and start a pull request.
 3. Click Propose changes.
+
+![Create a new branch](docs/assets/images/contributing/github_website_workflow/opt01_github-step06_03-create_branch.png)
+
 4. On the next page, click Create pull request.
+
+![Create pull request](docs/assets/images/contributing/github_website_workflow/opt01_github-step06_04-open_pull_request.png)
 
 A project member can then review the update, fix formatting if needed, and merge it into the website.
 
