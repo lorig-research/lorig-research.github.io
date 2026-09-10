@@ -15,7 +15,7 @@ tags:
 authors:
   - timotheus_bodt
 slug: 20260908-metagram_grammar_writing
-image: assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_page_01.png
+image: assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_Page_01.png
 ---
 
 # Lo-Rig PI Presents at Metagram Seminar Series
@@ -25,7 +25,7 @@ image: assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_pag
 On the invitation of Aimée Lahaussois, Lo-Rig Principal Investigator Tim Bodt presented a talk on grammar writing at the Metagram seminar series on 8 September 2026. The seminar series is organised by Aimée Lahaussois and Yvonne Treis and brings together 40 researchers with an interest in language documentation and description.
 
 <figure markdown>
-![Presentation Slide Title Page](/assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_page_01.png){ width="85%" }
+![Presentation Slide Title Page](/assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_Page_01.png){ width="85%" }
 <figcaption>
 Presentation Slide Title Page
 </figcaption>
