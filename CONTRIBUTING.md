@@ -1,101 +1,80 @@
-# Contributing — Lo-Rig website
+# Contributing -- Lo-Rig Website
 
-Thanks for contributing! This guide explains how to add and format project updates so they appear correctly on the website.
+Thanks for contributing! This guide explains how to suggest or add project updates to the Lo-Rig website.
 
----
+## Which method should I use?
 
-## Repository structure (short)
+### Option 1: Add an update through the GitHub website
+Use this if you want to add or suggest a post without using the command line.
 
-* `mkdocs.yml` — site configuration
-* `docs/` — all website content
+### Option 2: Add an update from your local computer
+Use this if you are comfortable using Git, editing files locally, and previewing the website.
 
-  * `docs/updates/posts/` — project update posts (one `.md` file per post)
-  * `docs/assets/images/updates/` — images for posts
-* `stylesheets/extra.css` — additional styling
-* `overrides/` — theme customisation
-
----
-
-## Creating a new update post
-
-1. Create a new Markdown file in:
-
-   ```
-   docs/updates/posts/
-   ```
-
-2. Name the file using the format:
-
-   ```
-   YYYYMMDD-short_title.md
-   ```
-
-   Example:
-
-   ```
-   20260505-bhutan_fieldwork.md
-   ```
-
-3. The `slug` in the front matter **must match the file name**:
-
-   ```
-   slug: 20260505-bhutan_fieldwork
-   ```
+### Option 3: Send the text and images to a project member
+Use this if you are not comfortable editing the website directly.
 
 ---
 
-## Post format (copy–paste template)
+## Repository Structure
+
+* `mkdocs.yml` - site configuration
+* `docs/` - all website content
+
+  * `docs/updates/posts/` - project update posts (one `.md` file per post)
+  * `docs/assets/images/updates/` - images for posts
+* `stylesheets/extra.css` - additional styling
+* `overrides/` - theme customisation
+
+---
+
+## Post Template (copy–paste template)
 
 Use the following template:
 
 ```
 ---
 title: Example Title
-date: 2026-05-05
+date: 2026-09-06
 categories:
-  - Fieldwork and Communities
+  - Training and Capacity Building
 tags:
-  - Monkha
-  - Field Visit
+  - Language Documentation
+  - Summer School
+  - Workshop
 authors:
   - your_name
-slug: 20260505-example
+slug: 20260906-example_title
 image: assets/images/updates/20260505-example/image.png
 ---
 
 # Example Title
 
-**05 May 2026**
+**06 September 2026**
 
-Short introductory paragraph.
+Write a short opening paragraph about the activity, event, visit, talk, or workshop.
 
-<figure markdown>
-![Caption](/assets/images/updates/20260505-example/image.png){ width="85%" }
-<figcaption>
-Caption text.
-</figcaption>
-</figure>
+Write one or two more paragraphs with the most important details. Keep the tone clear, factual, and neutral.
 ```
 
 ---
 
-## Categories and tags
+## Categories and Tags
 
 Use **one category per post**. Categories should stay broad so that the update archive remains easy to browse. Use tags for more specific topics, places, languages, institutions, tools, and activity types.
 
-### Standard categories
+### Standard Categories
 
 Choose one of the following categories:
 
-* **Project News** — project milestones, team updates, administrative updates, institutional home, project setup
-* **Fieldwork and Communities** — field visits, community meetings, community-facing updates, local conditions affecting fieldwork
-* **Training and Capacity Building** — training sessions, workshops, summer schools, teaching activities, capacity-building events
-* **Outreach and Dissemination** — talks, seminars, conference presentations, media coverage, public-facing visibility
-* **Partnerships and Networks** — institutional visits, collaborations, research networks, external academic relationship-building
+* **Project News** - project milestones, team updates, administrative updates, institutional home, project setup
+* **Fieldwork and Communities** - field visits, community meetings, community-facing updates, local conditions affecting fieldwork
+* **Training and Capacity Building** - training sessions, workshops, summer schools, teaching activities, capacity-building events
+* **Outreach and Dissemination** - talks, seminars, conference presentations, media coverage, public-facing visibility
+* **Partnerships and Networks** - institutional visits, collaborations, research networks, external academic relationship-building
 
 Do not create new categories unless there is a clear need and the website maintainer agrees.
 
-### Recommended tag usage
+### Recommended Tag Usage
 
 Tags should be specific and reusable. They can include:
 
@@ -110,7 +89,7 @@ Keep tags consistent with existing posts. For example, use `Field Visit` rather 
 
 ---
 
-## Choosing the right category
+## Choosing the Right Category
 
 Use this quick guide when classifying a post:
 
@@ -121,6 +100,131 @@ Use this quick guide when classifying a post:
 | A workshop, training session, summer school, or teaching activity | `Training and Capacity Building` | `Workshop`, `Summer School`, `Class`, `Research Assistants`, `ASR`, `Linguistic Fieldwork` |
 | A talk, research seminar, conference presentation, or media mention | `Outreach and Dissemination` | `Talk`, `Research Seminar`, `Conference`, `Conference Presentation`, `Media`, topic tags |
 | A university visit, external collaboration, or research network meeting | `Partnerships and Networks` | `Collaboration`, `Institutional Collaboration`, institution names, country or region tags |
+
+---
+
+## Option 1: Adding a project update through the GitHub website
+
+### 1. Prepare the text and images
+
+Before opening GitHub, prepare the following:
+
+- title of the update
+- date of the activity or event
+- short text for the update, usually 1--3 paragraphs
+- author name(s)
+- 1--3 possible photos, if available
+
+It is fine to draft the text in Word or Google Docs first.
+
+### 2. Create the post file
+
+1. Go to the repository on GitHub:
+
+👉 https://github.com/lorig-research/lorig-research.github.io
+
+2. Open this folder:
+
+```
+docs/updates/posts/
+```
+
+3. Click **Add file** &rarr; **Create new file**.
+
+4. Name the file using this format:
+
+```
+YYYYMMDD-short_title.md
+```
+
+Example:
+
+```
+20260906-berlin_summer_school.md
+```
+
+5. Copy and paste the post template into the text box.
+
+### 3. Use the template (see Post Template section) 
+
+The `slug` should match the filename without `.md`.
+
+For example:
+
+```
+filename: 20260906-berlin_summer_school.md
+slug: 20260906-berlin_summer_school
+```
+
+### 4. Choose one category and relevant tags
+
+Please use one category only. See Standard Categories section for options.
+
+Use tags for more specific details, such as languages, places, people, institutions, tools, talks, workshops, or media items. See Recommended Tag Usage section for examples.
+
+### 5. Add images, if comfortable
+
+If you are comfortable uploading photos, place them in:
+
+```
+docs/assets/images/updates/YYYYMMDD-post_name/
+```
+
+Example:
+
+```
+docs/assets/images/updates/20260906-berlin_summer_school/
+```
+
+Use clear filenames, such as:
+
+```
+20260906-berlin_summer_school_group_photo.jpeg
+```
+
+or
+
+```
+20260906-berlin_summer_school_session.jpeg
+```
+
+Then add the image to the post like this:
+
+```
+<figure markdown>
+![Short description of the image](/assets/images/updates/20260906-berlin_summer_school/20260906-berlin_summer_school_group_photo.jpeg){ width="85%" }
+<figcaption>
+Caption text.
+</figcaption>
+</figure>
+```
+
+If the image step is confusing, do not worry. You can create the text-only post and attach or share the photos separately. Another project member can add the images later.
+
+### 6. Save the change
+
+At the bottom of the GitHub page:
+
+1. Write a short commit message, for example:
+
+```
+Add Berlin summer school update
+```
+
+2. Choose Create a new branch for this commit and start a pull request.
+3. Click Propose changes.
+4. On the next page, click Create pull request.
+
+A project member can then review the update, fix formatting if needed, and merge it into the website.
+
+## Option 2: Adding a project update from your local computer
+
+### 1. Create a branch
+### 2. Add the Markdown post
+### 3. Add images
+### 4. Preview locally
+### 5. Commit and push
+### 6. Open a pull request
 
 ---
 
@@ -142,16 +246,16 @@ Use this quick guide when classifying a post:
 
 ---
 
-## Terminology (important)
+## Terminology
 
 Please use the following consistently:
 
-* **Monpa** — people / community
-* **Monkha** — language
+* **Monpa** - people / community
+* **Monkha** - language
 
 ---
 
-## Golden rules
+## Golden Rules
 
 * Keep posts concise (usually 1–3 paragraphs is enough)
 * Use clear, neutral language (avoid informal tone)
@@ -162,7 +266,7 @@ Please use the following consistently:
 
 ---
 
-## Before submitting
+## Before Submitting
 
 * Ensure `title`, `date`, and `slug` are included
 * Confirm the slug matches the filename
@@ -170,36 +274,6 @@ Please use the following consistently:
 * Check that tags are spelled consistently with existing posts
 * Check that images load correctly
 * Preview locally if possible
-
----
-
-## Local preview (optional)
-
-To preview the site locally:
-
-```bash
-pip install -r requirements.txt
-mkdocs serve
-```
-
-Open:
-
-```
-http://127.0.0.1:8000
-```
-
----
-
-## If you are not familiar with Git
-
-You can still contribute:
-
-* Send your text and images to a project member
-* Or share a draft (Word / Google Docs)
-
-We will format and upload it for you.
-
----
 
 ## Questions
 
