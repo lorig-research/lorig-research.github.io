@@ -27,7 +27,7 @@ On the invitation of Aimée Lahaussois, Lo-Rig Principal Investigator Tim Bodt p
 <figure markdown>
 ![Presentation Slide Title Page](/assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_page_01.png){ width="85%" }
 <figcaption>
-Participants in the Metagram seminar series.
+Presentation Slide Title Page
 </figcaption>
 </figure>
 
