@@ -22,7 +22,7 @@ image: assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_Pag
 
 **08 September 2026**
 
-On the invitation of Aimée Lahaussois, Lo-Rig Principal Investigator Tim Bodt presented a talk on grammar writing at the Metagram seminar series on 8 September 2026. The seminar series is organised by Aimée Lahaussois and Yvonne Treis and brings together 40 researchers with an interest in language documentation and description.
+On the invitation of Aimée Lahaussois, Lo-Rig Principal Investigator Tim Bodt presented a talk on grammar writing at the Metagram seminar series on 8 September 2026. The seminar series is organised by Aimée Lahaussois and Yvonne Treis and Tim's presentation was attended by 40 students and researchers from across the globe with an interest in language documentation and description.
 
 <figure markdown>
 ![Presentation Slide Title Page](/assets/images/updates/20260908-metagram_grammar_writing/Metagram_2026_Page_01.png){ width="85%" }
