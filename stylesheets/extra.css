@@ -1,0 +1,199 @@
+/* Theme colours */
+
+:root {
+  --md-primary-fg-color: #3169e0;
+  --md-primary-fg-color--dark: #3169e0;
+  --md-primary-fg-color--light: #3169e0;
+}
+
+
+/* Homepage hero */
+
+.hero {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  /* Pull the hero up to remove the white gap */
+  margin-top: -2.5rem;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Remove the default top padding that causes the gap */
+.md-content__inner {
+  padding-top: 0 !important;
+}
+
+
+/* Figures */
+
+figure figcaption {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-style: italic;
+}
+
+
+/* Footer */
+
+.md-footer-meta {
+  background-color: #ffffff;
+  color: #222;
+  border-top: 1px solid #e0e0e0;
+}
+
+.md-footer-meta__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.2rem 1.2rem;
+
+  display: grid;
+  grid-template-columns: 1fr auto;
+  row-gap: 1.6rem;
+  column-gap: 1.5rem;
+}
+
+/* Let the custom footer sections participate directly in the grid */
+.lorig-site-footer {
+  display: contents;
+}
+
+.lorig-site-footer__funding {
+  grid-column: 1 / -1;
+
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+}
+
+.lorig-site-footer__funding-logo {
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  flex: 0 0 auto;
+}
+
+.lorig-site-footer__funding-text {
+  max-width: 52rem;
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.lorig-site-footer__institutions {
+  grid-column: 1 / -1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.lorig-site-footer__institution-logo {
+  max-height: 72px;
+  max-width: 360px;
+  width: auto;
+  height: auto;
+}
+
+.lorig-site-footer__institution-logo--wide {
+  max-height: 86px;
+}
+
+.lorig-site-footer__bottom {
+  grid-column: 1;
+  grid-row: 3;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 1rem;
+
+  border-top: 1px solid #e0e0e0;
+  padding-top: 0.75rem;
+
+  font-size: 0.72rem;
+  color: #444;
+}
+
+.md-social {
+  grid-column: 2;
+  grid-row: 3;
+
+  display: flex;
+  align-items: center;
+  justify-self: end;
+  gap: 0.65rem;
+
+  border-top: 1px solid #e0e0e0;
+  padding-top: 0.75rem;
+
+  margin: 0 !important;
+}
+
+.md-social::before {
+  content: "Follow Lo-Rig on:";
+  margin-right: 0.7rem;
+  font-size: 0.72rem;
+  color: #222;
+}
+
+.lorig-site-footer__bottom a,
+.md-footer-meta a,
+.md-footer-meta .md-social__link,
+.md-footer-meta .md-social__link svg {
+  color: #222 !important;
+  fill: #222 !important;
+}
+
+
+/* Mobile footer */
+
+@media screen and (max-width: 800px) {
+  .md-footer-meta__inner {
+    display: block;
+  }
+
+  .lorig-site-footer {
+    display: block;
+  }
+
+  .lorig-site-footer__funding {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 1.6rem;
+  }
+
+  .lorig-site-footer__institutions {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .lorig-site-footer__institution-logo {
+    max-width: 260px;
+    max-height: 70px;
+  }
+
+  .lorig-site-footer__bottom {
+    margin-bottom: 0.6rem;
+  }
+
+  .md-social {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .md-social::before {
+    width: 100%;
+    margin-bottom: 0.3rem;
+  }
+}
