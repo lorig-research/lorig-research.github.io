@@ -10,6 +10,7 @@ tags:
 authors:
   - tshering_om_tamang
 slug: 20260831-berlin_summer_school
+image: assets/images/updates/20260831-berlin_summer_school/berlin_summer_school.png
 ---
 
 # Language Documentation Summer School in Berlin
@@ -17,6 +18,13 @@ slug: 20260831-berlin_summer_school
 **31 August 2026**
 
 From 31 August to 4 September 2026, Tshering Om Tamang participated in the 2026 Summer School “Language Science Meets Linguistic Diversity” at Humboldt-Universität zu Berlin, Germany. The week-long summer school was jointly organised by the Endangered Languages Archive (ELAR), Humboldt-Universität zu Berlin, and the Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS).
+
+<figure markdown>
+![Summer School in Linguistic Diversity and Language Science](/assets/images/updates/20260831-berlin_summer_school/berlin_summer_school.png){ width="85%" }
+<figcaption>
+Summer School in Linguistic Diversity and Language Science
+</figcaption>
+</figure>
 
 Tshering attended three courses: Digital Tools for Annotation and Analysis of Language Documentation Data (ELAN, FLEx), Data Management and Metadata Creation for Archiving in Language Documentation, and Capturing Language Use. The courses combined theoretical sessions with intensive practical work, covering the use of ELAN and FLEx for transcription, annotation, and corpus development; approaches to organising, managing, documenting, and archiving language documentation materials; and hands-on work with audio and video recording equipment for capturing language use. The recording sessions also included reviewing recordings and considering how different equipment and recording approaches affect the quality of the data collected.
 
