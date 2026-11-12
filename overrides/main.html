@@ -2,5 +2,21 @@
 
 {% block extrahead %}
   {{ super() }}
+
+  <!-- Favicon -->
   <link rel="icon" href="/favicon.ico">
+
+  <!-- Social media previews -->
+  {% if page and page.meta and page.meta.image %}
+    {% set preview_image = config.site_url ~ page.meta.image %}
+
+    <!-- Open Graph: Bluesky and other platforms -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ page.title | e }}">
+    <meta property="og:image" content="{{ preview_image }}">
+
+    <!-- X / Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ preview_image }}">
+  {% endif %}
 {% endblock %}
