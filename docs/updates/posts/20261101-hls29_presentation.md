@@ -31,15 +31,15 @@ Tshering Om Tamang presenting her sociolinguistic survey of the Monpa communitie
 During the closing session on 1 November 2026, a pre-announcement was also made for the 31st Himalayan Languages Symposium (HLS 2028), which will take place in May 2028 in Gleann Cholm Cille, County Donegal, Ireland. The symposium will be co-hosted and co-organised by the Lo-Rig Project and Oideas Gael, with support from the Trinity Long Room Hub and the Trinity Centre for Asian Studies.
 
 <figure markdown>
-![Tshering with other HLS29 participants](/assets/images/updates/20261101-hls29_presentation/hls29_img_01.png){ width="55%" }
+![Tshering Om Tamang of the Lo-Rig Project and Sagar Boro of IIT Delhi](/assets/images/updates/20261101-hls29_presentation/hls29_img_01.png){ width="55%" }
 <figcaption>
-Tshering with other HLS29 participants
+Tshering Om Tamang of the Lo-Rig Project and Sagar Boro of the Department of Humanities and Social Sciences, Indian Institute of Technology Delhi
 </figcaption>
 </figure>
 
 <figure markdown>
-![Tshering with other HLS29 participants](/assets/images/updates/20261101-hls29_presentation/hls29_img_03.png){ width="85%" }
+![Tshering with Josiah of TCAS and Joshita of JNU](/assets/images/updates/20261101-hls29_presentation/hls29_img_03.png){ width="85%" }
 <figcaption>
-Tshering with other HLS29 participants
+Tshering Om Tamang with Josiah Medin of the Trinity Centre for Asian Studies, Trinity College Dublin, and Joshita Kashyap of Jawaharlal Nehru University
 </figcaption>
 </figure>
