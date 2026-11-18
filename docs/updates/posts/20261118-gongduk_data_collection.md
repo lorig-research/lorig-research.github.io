@@ -13,6 +13,7 @@ tags:
   - Community Engagement
 authors:
   - timotheus_bodt
+  - rinchen_wangdi
 slug: 20261118-gongduk_data_collection
 image: assets/images/updates/20261118-gongduk_data_collection/pic7.jpg
 ---
